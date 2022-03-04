@@ -1,7 +1,7 @@
 ## 💻 LucasDev
 - 👋 Olá sou o Lucas.
-- 👀 Iniciante na area de programação. 
-- 🌱 Aprendendo html5 e css3
+- 👀 Medium na area de programação
+- 🌱 Estudando lua
 - 💞️ Gosto de aprender coisas novas e de me aprimorar nelas!
 - 📫 LucasDevL#2021 Dm aberta!
 
