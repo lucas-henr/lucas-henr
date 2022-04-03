@@ -1,4 +1,4 @@
-## 💻 LucasDev
+## 💻 LucasCode
 - 👋 Olá sou o Lucas.
 - 👀 Medium na area de programação
 - 🌱 Estudando lua
