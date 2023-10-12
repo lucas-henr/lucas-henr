@@ -1,4 +1,4 @@
-## 💻 LucaXCode
+## 💻 LucaxCode
 - 👋 Olá sou o Lucas.
 - 👀 Programador Front-End
 - 🌱 Lua, JavaScript, html e css, react.js, typeScript.
