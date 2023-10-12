@@ -1,12 +1,9 @@
-## 💻 LucasCode
+## 💻 LucaXCode
 - 👋 Olá sou o Lucas.
 - 👀 Programador Front-End
 - 🌱 Lua, JavaScript, html e css, react.js, typeScript.
 - 💞️ Gosto de aprender coisas novas e de me aprimorar nelas!
-- 📫 lucax01 | on discord
-
-## 📔 Status
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-Henr&theme=dark&show_icons=true)
+- 📫 lucax01 | WordTech on discord
 
 ## 🧪 Tecnologias e ferramentas
 
@@ -21,11 +18,7 @@
 
 ## 📡 Contato 
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/796183998434902047/870355448233086996/fotogi.jpg"/>
-<img  href="porfolio-lucax.vercel.app" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-<img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"/>
-<img src="https://cdn.discordapp.com/attachments/796183998434902047/870443831701684264/gifoto.jpg"/>  
+<h3>🔗 facillucas123@gmail.com</h3>
 </p>
 
 <!---
