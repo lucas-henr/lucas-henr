@@ -1,7 +1,8 @@
 ## 💻 LucaxCode
 - 👋 Olá sou o Lucas.
 - 👀 Programador Front-End
-- 🌱 Lua, JavaScript, html e css, react.js, typeScript.
+- 🌱 Lua, JavaScript, Html & css, Mysql
+- 🤖 Perito em DISCORD.JS 
 - 💞️ Gosto de aprender coisas novas e de me aprimorar nelas!
 - 📫 lucax01 | WordTech on discord
 
