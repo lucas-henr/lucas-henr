@@ -45,7 +45,7 @@ Iniciei minha jornada como desenvolvedor em 2021, criando bots para Discord util
   <a href="mailto:facillucas123@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
   </a>
-  <a href="https://discord.com" target="_blank">
+  <a href="https://discord.gg/swiftstore" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="30"/>
   </a>
 </p>  
